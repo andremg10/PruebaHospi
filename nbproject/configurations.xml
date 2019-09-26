@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <itemPath>arregloCamas.h</itemPath>
+      <itemPath>arregloDoctores.h</itemPath>
+      <itemPath>arregloEspecialidades.h</itemPath>
+      <itemPath>arregloPabellones.h</itemPath>
+      <itemPath>arregloPacientes.h</itemPath>
+      <itemPath>cama.h</itemPath>
+      <itemPath>doctor.h</itemPath>
+      <itemPath>especialidad.h</itemPath>
+      <itemPath>hospital.h</itemPath>
+      <itemPath>interfaz.h</itemPath>
+      <itemPath>pabellon.h</itemPath>
+      <itemPath>paciente.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>arregloCamas.cpp</itemPath>
+      <itemPath>arregloDoctores.cpp</itemPath>
+      <itemPath>arregloEspecialidades.cpp</itemPath>
+      <itemPath>arregloPabellones.cpp</itemPath>
+      <itemPath>arregloPacientes.cpp</itemPath>
+      <itemPath>cama.cpp</itemPath>
+      <itemPath>doctor.cpp</itemPath>
+      <itemPath>especialidad.cpp</itemPath>
+      <itemPath>hospital.cpp</itemPath>
+      <itemPath>interfaz.cpp</itemPath>
+      <itemPath>main.cpp</itemPath>
+      <itemPath>pabellon.cpp</itemPath>
+      <itemPath>paciente.cpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+      </compileType>
+      <item path="arregloCamas.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="arregloCamas.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="arregloDoctores.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="arregloDoctores.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="arregloEspecialidades.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="arregloEspecialidades.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="arregloPabellones.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="arregloPabellones.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="arregloPacientes.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="arregloPacientes.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="cama.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="cama.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="doctor.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="doctor.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="especialidad.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="especialidad.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="hospital.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="hospital.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="interfaz.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="interfaz.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="pabellon.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="pabellon.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="paciente.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="paciente.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="arregloCamas.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="arregloCamas.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="arregloDoctores.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="arregloDoctores.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="arregloEspecialidades.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="arregloEspecialidades.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="arregloPabellones.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="arregloPabellones.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="arregloPacientes.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="arregloPacientes.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="cama.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="cama.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="doctor.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="doctor.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="especialidad.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="especialidad.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="hospital.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="hospital.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="interfaz.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="interfaz.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="pabellon.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="pabellon.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="paciente.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="paciente.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
